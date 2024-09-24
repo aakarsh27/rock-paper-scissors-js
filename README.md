@@ -1,2 +1,2 @@
 # rock-paper-scissors
-## using html, 
+## using html, css
